@@ -14,6 +14,6 @@
 		<property name="hibernate.show_sql">true</property>
 		<property name="hibernate.format_sql">true</property>
 
-		<mapping resource="com/ciq/ems/mapping/hibernate.hbm.xml" />
+		<mapping resource="hibernate.hbm.xml" />
 	</session-factory>
 </hibernate-configuration>
